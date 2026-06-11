@@ -1,6 +1,8 @@
-Building software for industrial workflows: protocol emulators, logistics dashboards, and automation tools.
+# Matthew Curtis
 
-I'm most interested in systems that turn messy real-world processes into reliable software — tools that connect physical work to clean data.
+Building practical software for industrial workflows: protocol emulators, logistics dashboards, backend systems, and automation tools.
+
+I’m interested in systems that turn messy real-world processes into reliable software — tools that connect physical work, operational pressure, and imperfect data into something usable.
 
 ## Current Focus
 
