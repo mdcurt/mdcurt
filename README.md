@@ -2,7 +2,7 @@
 
 Building practical software for industrial workflows: protocol emulators, logistics dashboards, backend systems, and automation tools.
 
-I’m interested in systems that turn messy real-world processes into reliable software — tools that connect physical work, operational pressure, and imperfect data into something usable.
+I’m interested in systems that turn messy real-world processes into reliable software. Tools that connect physical work, operational pressure, and imperfect data into something usable.
 
 ## Current Focus
 
